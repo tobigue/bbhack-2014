@@ -62,6 +62,7 @@ setup(
         'console_scripts': [
             'streamer=bbhack.streamer:main',
             'hashtag-logger=bbhack.example:main',
+            'learner=bbhack.learner:main',
         ]
     }
 )
